@@ -4,8 +4,8 @@
     "description": "Modules and lessons for the Solar Kit.",
     "license": "MIT",
     "dependencies": {
-        "fwd-energy": "github:Forward-Education/pxt-fwd-modules/fwd-energy",
-        "fwd-servo-positional": "github:Forward-Education/pxt-fwd-modules/fwd-servo-positional"
+        "fwd-energy": "github:Forward-Education/pxt-fwd-modules/fwd-energy#v1.0.1",
+        "fwd-servo-positional": "github:Forward-Education/pxt-fwd-modules/fwd-servo-positional#v1.0.1"
     },
     "files": [],
     "testFiles": [
