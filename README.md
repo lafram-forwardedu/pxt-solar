@@ -2,7 +2,7 @@
 
 Solar Kit, by Forward Education
 
-Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/).
+Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Hydroponics Kit on the [product page]().
 
 ## Example Usage
 
@@ -14,7 +14,6 @@ A sample of coding with the Solar Kit can be seen below.
 The solar panel is charging a battery and the energy meter is between it.
 When the current and voltage is above an acceptable level a happy face is shown. If not a sad face is shown.
 The current and voltage readings can be displayed on demand using the micro:bit buttons and screen.
-Add the [datalogging extension](https://makecode.microbit.org/reference/datalogger) to track readings over time.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {

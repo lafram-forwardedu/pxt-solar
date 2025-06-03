@@ -7,7 +7,9 @@
         "fwd-energy": "github:Forward-Education/pxt-fwd-modules/fwd-energy#v1.0.1",
         "fwd-servo-positional": "github:Forward-Education/pxt-fwd-modules/fwd-servo-positional#v1.0.1"
     },
-    "files": [],
+    "files": [
+        "README.md"
+    ],
     "testFiles": [
         "test.ts"
     ],
