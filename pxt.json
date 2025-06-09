@@ -1,7 +1,7 @@
 {
-    "name": "pxt-fwd-solar",
+    "name": "fwd-smart-solar",
     "version": "1.0.1",
-    "description": "Blocks for Forward Education's Smart Solar Kit. micro:bit (V2) only. BETA.",
+    "description": "Forward Education's Smart Solar Kit extension, micro:bit V2 only.",
     "license": "MIT",
     "dependencies": {
         "fwd-energy": "github:Forward-Education/pxt-fwd-modules/fwd-energy#v1.0.2",
