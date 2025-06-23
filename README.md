@@ -2,7 +2,7 @@
 
 Smart Solar Kit, by Forward Education.
 
-Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Smart Solar Kit on the [product page]().
+Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Smart Solar Kit on the [product page](https://forwardedu.com/products/smart-solar-energy-kit).
 
 ### ~ reminder
 
