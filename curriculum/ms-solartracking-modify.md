@@ -48,7 +48,7 @@ Today, we are going to customize and enhance our **sun-tracking solar panel**!
 
 We'll start with the base code from the 'Use' tutorial and modify it to make our panel smarter and more responsive. 
 
-<img src="https://raw.githubusercontent.com/Forward-Education/pxt-solar/curriculum/ms-solartracking-render.png" alt="Full sun-tracking solar panel render" style="display: block; width: 100%; margin:auto;">
+<img src="https://raw.githubusercontent.com/lafram-forwardedu/pxt-solar/main/curriculum/ms-solartracking-render.png" alt="Full sun-tracking solar panel render" style="display: block; width: 100%; margin:auto;">
 
 ## Step 1 @showdialog
 IMPORTANT! Make sure your Climate Action Kit Breakout Board is turned on and your micro:bit is plugged into your computer.
