@@ -9,14 +9,14 @@
     },
     "files": [
         "README.md",
-        "curriculum/ms-solartracking-use.md",
-        "curriculum/ms-solartracking-modify.md",
+        "curriculum/ms-solartracking/use.md",
+        "curriculum/ms-solartracking/modify.md",
         "tutorial-info-cache.json"
     ],
     "testFiles": [
         "tests/test.ts",
-        "tests/ms-solartracking-use.ts",
-        "tests/ms-solartracking-modify.ts"
+        "tests/ms-solartracking/use-final.ts",
+        "tests/ms-solartracking/modify-final.ts"
     ],
     "public": true,
     "targetVersions": {
