@@ -48,18 +48,18 @@ Today, we are going to customize and enhance our **sun-tracking solar panel**!
 
 We'll start with the base code from the 'Use' tutorial and modify it to make our panel smarter and more responsive. 
 
-<img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/ms-solartracking-render.webp" alt="Full sun-tracking solar panel render" style="display: block; width: 100%; margin:auto;">
+<img src="https://raw.githubusercontent.com/Forward-Education/pxt-solar/main/curriculum/ms-solartracking/render.png" alt="Full sun-tracking solar panel render" style="display: block; width: 100%; margin:auto;">
 
 ## Step 1 @showdialog
 IMPORTANT! Make sure your Climate Action Kit Breakout Board is turned on and your micro:bit is plugged into your computer.
 
-<img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/pluganim.webp" alt="Plug micro:bit into USB port on computer" style="display: block; width: 40%; margin:auto;">
+<img src="https://raw.githubusercontent.com/Forward-Education/pxt-solar/main/curriculum/general-assets/pluganim.webp" alt="Plug micro:bit into USB port on computer" style="display: block; width: 40%; margin:auto;">
 
 ## Step 2 @showdialog
 Click the three dots beside the ``|Download|`` button, then click on _Connect Device_.
 Next, follow the steps to pair your micro:bit.
 
-<img src="https://raw.githubusercontent.com/climate-action-kits/pxt-fwd-edu/main/tutorial-assets/pairmicrobitGIF.webp"  alt="Pairing gif" style="display: block; width: 60%; margin:auto;">
+<img src="https://raw.githubusercontent.com/Forward-Education/pxt-solar/main/curriculum/general-assets/pairmicrobitGIF.webp"  alt="Pairing gif" style="display: block; width: 60%; margin:auto;">
 
 ## Step 3
 Click the ``|Download|`` button to download the code to your micro:bit. 
